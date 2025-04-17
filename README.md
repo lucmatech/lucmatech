@@ -1,4 +1,8 @@
-- 👋 Hi, Luiza
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#fbbd4f&height=84&section=header"/>
+
+  ## 👋 Hi, Luiza
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -6,3 +10,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ ### 🌍 Connect with Me:
+
+---
+
+<!--  [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/) 
+  [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:ectilmiguel@gmail.com) -->
+  [![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/luh.side) 
